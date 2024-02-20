@@ -5,6 +5,8 @@ This repository documents my latest Data Analysis project completed.  The projec
 
 ### Problem Statement:
 The project aims to streamline the "Domain Sale" process, enabling potential buyers to purchase desired domains without directly contacting sellers. Sellers list domains at set prices in our Marketplace, and interested buyers can seamlessly purchase them.
+![Screenshot 2024-02-20 221548](https://github.com/Kavisha666/Budget-sales-analytics-in-automobile-sector-by-using-powerbi-/assets/158316623/3062e38f-97fa-4f22-aeb2-6cf16eb4fbd4)
+
 
 ### Key Features:
 - Extraction of sales, budget data, and variances.
